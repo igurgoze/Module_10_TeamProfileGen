@@ -21,13 +21,13 @@ To install run 'install npm' in the terminal as well as "npm i inquirer@8.2.4" t
 ## Usage
 After you have completed the installation steps, you just need to run "node index" inside the terminal folder, then you will be prompted to answer the questions. Once you click "exit" it will create a webpage for you using HTML! (which will be found in the same folder as this application).
 
-VIDEO DEMO: https://drive.google.com/file/d/1PTbgP6omBeR4oUQGzWYPpMjc7mi7yrNU/view
+[VIDEO DEMO](https://drive.google.com/file/d/1PTbgP6omBeR4oUQGzWYPpMjc7mi7yrNU/view)
 
 ## Contributing
-Ian Gurgoze || BootStrap (https://getbootstrap.com/)
+[Ian Gurgoze](https://github.com/igurgoze) || [BootStrap](https://getbootstrap.com/)
 
 ## Test
-test scripts provided by Rachel Thiim | https://github.com/rxtATX
+test scripts provided by [Rachel Thiim](https://github.com/rxtATX)
 
 ## Questions
 
